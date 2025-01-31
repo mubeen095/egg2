@@ -1,0 +1,17 @@
+{
+    "header": {
+      "home": "Home",
+      "about": "About Us",
+      "initiatives": "Initiatives",
+      "order": "Order Eggs"
+    },
+    "footer": {
+      "address": "SC Corporation Limited, Hyderabad",
+      "contact": "Contact: 040-23456789",
+      "rights": "All rights reserved"
+    },
+    "home": {
+      "title": "Government Egg Distribution System",
+      "subtitle": "Ensuring Nutrition for Students"
+    }
+  }
